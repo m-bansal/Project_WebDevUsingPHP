@@ -1,0 +1,22 @@
+.row_style{
+                    margin-top: 70px;
+                }
+.hideborder{
+                        border-style: hidden;
+                }
+.panelsize{
+                        min-height: 350px;
+                        max-height: 350px;
+                }         
+.manualwidthcss{
+                    width:100%;
+                }  
+footer{
+    position: relative;
+    background-color: #3d3d3d;
+    color:white;
+    width: 100%;
+}
+     .plaintext{
+         margin-bottom: 0;
+     }
